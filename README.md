@@ -4,10 +4,10 @@
 
 ### Install
 
-Copy `mateus.zsh-theme` to `.oh-my-zsh/themes`
+Copy `mateus.zsh-theme` to `~/.oh-my-zsh/themes`
 
 ```
-  $ .oh-my-zsh/themes/mateus.zsh-theme
+  $ ~/.oh-my-zsh/themes/mateus.zsh-theme
 ```
 
 Change the theme in `~/.zshrc`
