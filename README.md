@@ -4,6 +4,8 @@
 
 ### Install
 
+> Requires https://github.com/robbyrussell/oh-my-zsh
+
 Copy `mateus.zsh-theme` to `~/.oh-my-zsh/themes`
 
 ```
